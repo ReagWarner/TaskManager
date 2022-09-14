@@ -345,12 +345,3 @@ while True:
 
     else:
         print("\nYou have made a wrong choice, please try again.")
-
-
-'''
-Please be advised:
----------> The lines of hard coding excluding comments is approximately 225 lines
----------> I  was advised NOT to change the formatting of the dates as we have not learned that yet
----------> Thanks for marking :)
-
-'''
